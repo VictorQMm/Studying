@@ -2,10 +2,9 @@
 
 using namespace std;
 
-void imp(string txt="");
+void imp(string txt=""); // omissão de argumentos e padrões  
 
 int main(){
-// omissão de argumentos e padrões  
 imp();
 
 return 0;
